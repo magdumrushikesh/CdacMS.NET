@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET\\Ms.net git\\DataBaseCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FC7669-19C5-4BE1-AC86-E482F542F71C}|DataBaseCode\\DataBaseCode.csproj|d:\\asp.net\\ms.net git\\databasecode\\databasecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FC7669-19C5-4BE1-AC86-E482F542F71C}|DataBaseCode\\DataBaseCode.csproj|solutionrelative:databasecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Ms.net git\\DataBaseCode\\DataBaseCode\\Program.cs",
+              "RelativeDocumentMoniker": "DataBaseCode\\Program.cs",
+              "ToolTip": "D:\\ASP.NET\\Ms.net git\\DataBaseCode\\DataBaseCode\\Program.cs",
+              "RelativeToolTip": "DataBaseCode\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswDEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:17:23.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

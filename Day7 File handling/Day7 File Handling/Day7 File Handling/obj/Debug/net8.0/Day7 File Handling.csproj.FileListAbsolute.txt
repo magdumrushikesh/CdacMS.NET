@@ -1,0 +1,15 @@
+D:\ASP.NET\Ms.net git\Day7 File handling\Day7 File Handling\Day7 File Handling\bin\Debug\net8.0\Day7 File Handling.exe
+D:\ASP.NET\Ms.net git\Day7 File handling\Day7 File Handling\Day7 File Handling\bin\Debug\net8.0\Day7 File Handling.deps.json
+D:\ASP.NET\Ms.net git\Day7 File handling\Day7 File Handling\Day7 File Handling\bin\Debug\net8.0\Day7 File Handling.runtimeconfig.json
+D:\ASP.NET\Ms.net git\Day7 File handling\Day7 File Handling\Day7 File Handling\bin\Debug\net8.0\Day7 File Handling.dll
+D:\ASP.NET\Ms.net git\Day7 File handling\Day7 File Handling\Day7 File Handling\bin\Debug\net8.0\Day7 File Handling.pdb
+D:\ASP.NET\Ms.net git\Day7 File handling\Day7 File Handling\Day7 File Handling\obj\Debug\net8.0\Day7 File Handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\Ms.net git\Day7 File handling\Day7 File Handling\Day7 File Handling\obj\Debug\net8.0\Day7 File Handling.AssemblyInfoInputs.cache
+D:\ASP.NET\Ms.net git\Day7 File handling\Day7 File Handling\Day7 File Handling\obj\Debug\net8.0\Day7 File Handling.AssemblyInfo.cs
+D:\ASP.NET\Ms.net git\Day7 File handling\Day7 File Handling\Day7 File Handling\obj\Debug\net8.0\Day7 File Handling.csproj.CoreCompileInputs.cache
+D:\ASP.NET\Ms.net git\Day7 File handling\Day7 File Handling\Day7 File Handling\obj\Debug\net8.0\Day7 File Handling.sourcelink.json
+D:\ASP.NET\Ms.net git\Day7 File handling\Day7 File Handling\Day7 File Handling\obj\Debug\net8.0\Day7 File Handling.dll
+D:\ASP.NET\Ms.net git\Day7 File handling\Day7 File Handling\Day7 File Handling\obj\Debug\net8.0\refint\Day7 File Handling.dll
+D:\ASP.NET\Ms.net git\Day7 File handling\Day7 File Handling\Day7 File Handling\obj\Debug\net8.0\Day7 File Handling.pdb
+D:\ASP.NET\Ms.net git\Day7 File handling\Day7 File Handling\Day7 File Handling\obj\Debug\net8.0\Day7 File Handling.genruntimeconfig.cache
+D:\ASP.NET\Ms.net git\Day7 File handling\Day7 File Handling\Day7 File Handling\obj\Debug\net8.0\ref\Day7 File Handling.dll
