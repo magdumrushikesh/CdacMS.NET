@@ -10,25 +10,101 @@ namespace DataBaseCode
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+
+            //Create Connection
             //Connect();
+
             //Employee e1 = new Employee { EmpNo = 111, Name="Ramesh", Basic=10000,DeptNo=2 };
             // Insert2(e1);
+
+            //Employee e1 = new Employee { EmpNo = 111, Name="Ramesh", Basic=10000,DeptNo=2 };
             //InsertWithParameterWithSP(e1);
 
-            List<Employee> list = (List<Employee>)GetAllEmployees();
+            //List<Employee> list = (List<Employee>)GetAllEmployees
+            //foreach (var item in list)
+            //{
+            //    Console.WriteLine(item.EmpNo);
+            //    Console.WriteLine(item.Name);
+            //    Console.WriteLine(item.Basic);
+            //    Console.WriteLine(item.DeptNo);
+            //    Console.WriteLine
+            //}
 
-            foreach (var item in list)
+
+            //Employee emp = GetAllEmployeeById(5); 
+
+            //UpdateEmployee(5, "vv", 50000.00, 2);
+
+            //DeleteEmployeeById(5);
+
+            Console.WriteLine("End of DataSQL");
+
+        }
+
+        private static void DeleteEmployeeById(int v)
+        {
+            SqlConnection cn = new SqlConnection();
+            cn.ConnectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=ActsJan25;Integrated Security=True";
+
+            try
             {
-                Console.WriteLine(item.EmpNo);
-                Console.WriteLine(item.Name);
-                Console.WriteLine(item.Basic);
-                Console.WriteLine(item.DeptNo);
-                Console.WriteLine();
+                cn.Open();
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = cn;
+                cmd.CommandType = CommandType.Text;
+                cmd.CommandText = "delete from employees where EmpNo=@EmpNo";
+
+                cmd.Parameters.AddWithValue("@EmpNo", v);
+                
+
+                cmd.ExecuteNonQuery();
+
+                Console.WriteLine("Data Deleted successfully");
 
             }
-            
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            finally
+            {
+                cn.Close();
+            }
 
-            Employee emp = GetAllEmployeeById(1); 
+        }
+
+        private static void UpdateEmployee(int v1, string v2, double v3, int v4)
+        {
+
+            SqlConnection cn = new SqlConnection();
+            cn.ConnectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=ActsJan25;Integrated Security=True";
+
+            try
+            {
+                cn.Open();
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = cn;
+                cmd.CommandType = CommandType.Text;
+                cmd.CommandText = "update employees set Basic=@Basic,Name=@Name,DeptNo=@DeptNo where EmpNo=@EmpNo";
+
+                cmd.Parameters.AddWithValue("@EmpNo", v1);
+                cmd.Parameters.AddWithValue("@Name", v2);
+                cmd.Parameters.AddWithValue("@Basic", v3);
+                cmd.Parameters.AddWithValue("@DeptNo", v4);
+
+                cmd.ExecuteNonQuery();
+
+                Console.WriteLine("Data updated successfully");
+
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            finally
+            {
+                cn.Close();
+            }
 
         }
 
@@ -45,6 +121,17 @@ namespace DataBaseCode
                 cmd.CommandType = CommandType.Text;
                 cmd.CommandText = "select * from Employees where EmpNo =@EmpNo";
                 cmd.Parameters.AddWithValue("@EmpNo", empNo);
+                 SqlDataReader dr = cmd.ExecuteReader();
+
+                if(dr.Read())
+                {
+                    Console.WriteLine(dr["EmpNo"]);
+                    Console.WriteLine(dr["Name"]);
+                    Console.WriteLine(dr["Basic"]);
+                    Console.WriteLine(dr["DeptNo"]);
+                }
+
+
 
                 Employee emp = new Employee();
 
