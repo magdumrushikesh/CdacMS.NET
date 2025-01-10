@@ -15,6 +15,8 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {
+            //if you have to pass new view view add in home/index1.html
+            //return View("Index1");
             return View();
         }
 

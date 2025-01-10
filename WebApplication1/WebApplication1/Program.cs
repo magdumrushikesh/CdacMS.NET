@@ -28,7 +28,10 @@ namespace WebApplication1
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+            pattern: "{controller=Home}/{action=Index}/{id?}");
+
+            //this will call Default controller in Index.cshtml  print red messge
+            //pattern: "{controller=Default}/{action=Index}/{id?}");
 
             app.Run();
         }
