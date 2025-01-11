@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|d:\\asp.net\\ms.net git\\webapplicationcrud\\webapplicationcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|solutionrelative:webapplicationcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|d:\\asp.net\\ms.net git\\webapplicationcrud\\webapplicationcrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|solutionrelative:webapplicationcrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|d:\\asp.net\\ms.net git\\webapplicationcrud\\webapplicationcrud\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|solutionrelative:webapplicationcrud\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|d:\\asp.net\\ms.net git\\webapplicationcrud\\webapplicationcrud\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|solutionrelative:webapplicationcrud\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|d:\\asp.net\\ms.net git\\webapplicationcrud\\webapplicationcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|solutionrelative:webapplicationcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|d:\\asp.net\\ms.net git\\webapplicationcrud\\webapplicationcrud\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|solutionrelative:webapplicationcrud\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|d:\\asp.net\\ms.net git\\webapplicationcrud\\webapplicationcrud\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|solutionrelative:webapplicationcrud\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|d:\\asp.net\\ms.net git\\webapplicationcrud\\webapplicationcrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|solutionrelative:webapplicationcrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|d:\\asp.net\\ms.net git\\webapplicationcrud\\webapplicationcrud\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|solutionrelative:webapplicationcrud\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|d:\\asp.net\\ms.net git\\webapplicationcrud\\webapplicationcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|solutionrelative:webapplicationcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|d:\\asp.net\\ms.net git\\webapplicationcrud\\webapplicationcrud\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,25 +42,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Program.cs",
               "RelativeDocumentMoniker": "WebApplicationCRUD\\Program.cs",
               "ToolTip": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Program.cs",
               "RelativeToolTip": "WebApplicationCRUD\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T10:34:52.225Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplicationCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T13:56:40.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationCRUD\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplicationCRUD\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T13:56:30.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\Employees\\Delete.cshtml",
               "RelativeDocumentMoniker": "WebApplicationCRUD\\Views\\Employees\\Delete.cshtml",
@@ -60,12 +96,11 @@
               "RelativeToolTip": "WebApplicationCRUD\\Views\\Employees\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-11T11:38:56.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T11:38:56.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\Employees\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplicationCRUD\\Views\\Employees\\Index.cshtml",
@@ -73,12 +108,7 @@
               "RelativeToolTip": "WebApplicationCRUD\\Views\\Employees\\Index.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-11T11:29:50.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2025-01-11T11:29:50.732Z"
             },
             {
               "$type": "Document",
@@ -88,14 +118,14 @@
               "RelativeDocumentMoniker": "WebApplicationCRUD\\Controllers\\EmployeesController.cs",
               "ToolTip": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Controllers\\EmployeesController.cs",
               "RelativeToolTip": "WebApplicationCRUD\\Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAAAEsAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwDEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T10:32:52.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\Employees\\Details.cshtml",
               "RelativeDocumentMoniker": "WebApplicationCRUD\\Views\\Employees\\Details.cshtml",
@@ -103,18 +133,17 @@
               "RelativeToolTip": "WebApplicationCRUD\\Views\\Employees\\Details.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAwwBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-11T10:32:47.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T10:32:47.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "WebApplicationCRUD\\Models\\Employee.cs",
-              "ToolTip": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Models\\Employee.cs",
-              "RelativeToolTip": "WebApplicationCRUD\\Models\\Employee.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowA4AAAAOAAAAAAAAAA==",
+              "ToolTip": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Models\\Employee.cs*",
+              "RelativeToolTip": "WebApplicationCRUD\\Models\\Employee.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T10:08:42.056Z",
               "EditorCaption": ""

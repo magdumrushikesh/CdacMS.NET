@@ -12,6 +12,41 @@ namespace WebApplicationCRUD.Models
 
         public int DeptNo { set; get; }
 
+        public static void UpdateEmployee(int id,Employee emp)
+        {
+
+            SqlConnection cn = new SqlConnection();
+            cn.ConnectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=ActsJan25;Integrated Security=True";
+
+            try
+            {
+                cn.Open();
+                SqlCommand cmd = new SqlCommand();
+                cmd.Connection = cn;
+                cmd.CommandType = CommandType.Text;
+                cmd.CommandText = "update employees set Basic=@Basic,Name=@Name,DeptNo=@DeptNo where EmpNo=@EmpNo";
+
+                cmd.Parameters.AddWithValue("@EmpNo", id);
+                cmd.Parameters.AddWithValue("@Name", emp.Name);
+                cmd.Parameters.AddWithValue("@Basic", emp.Basic);
+                cmd.Parameters.AddWithValue("@DeptNo", emp.DeptNo);
+
+                cmd.ExecuteNonQuery();
+
+                //Console.WriteLine("Data updated successfully");
+
+            }
+            catch (Exception ex)
+            {
+                //Console.WriteLine(ex.Message);
+            }
+            finally
+            {
+                cn.Close();
+            }
+
+        }
+
         public static void DeleteEmployeeById(int v)
         {
             SqlConnection cn = new SqlConnection();
