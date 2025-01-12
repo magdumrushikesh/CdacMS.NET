@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\DbFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\DbFirst\\DbFirst\\Migrations\\20250112090249_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DbFirst\\Migrations\\20250112090249_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD92220-B151-46A8-86D2-75CE5D3A4AF5}|DbFirst\\DbFirst.csproj|c:\\users\\dac.studentsdc\\desktop\\12-01-2025\\dbfirst\\dbfirst\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD92220-B151-46A8-86D2-75CE5D3A4AF5}|DbFirst\\DbFirst.csproj|solutionrelative:dbfirst\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\EF\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD92220-B151-46A8-86D2-75CE5D3A4AF5}|DbFirst\\DbFirst.csproj|c:\\users\\dac.studentsdc\\desktop\\12-01-2025\\dbfirst\\dbfirst\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD92220-B151-46A8-86D2-75CE5D3A4AF5}|DbFirst\\DbFirst.csproj|solutionrelative:dbfirst\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\EF\\Department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD92220-B151-46A8-86D2-75CE5D3A4AF5}|DbFirst\\DbFirst.csproj|c:\\users\\dac.studentsdc\\desktop\\12-01-2025\\dbfirst\\dbfirst\\models\\actsjan25context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD92220-B151-46A8-86D2-75CE5D3A4AF5}|DbFirst\\DbFirst.csproj|solutionrelative:dbfirst\\models\\actsjan25context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD92220-B151-46A8-86D2-75CE5D3A4AF5}|DbFirst\\DbFirst.csproj|c:\\users\\dac.studentsdc\\desktop\\12-01-2025\\dbfirst\\dbfirst\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD92220-B151-46A8-86D2-75CE5D3A4AF5}|DbFirst\\DbFirst.csproj|solutionrelative:dbfirst\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD92220-B151-46A8-86D2-75CE5D3A4AF5}|DbFirst\\DbFirst.csproj|c:\\users\\dac.studentsdc\\desktop\\12-01-2025\\dbfirst\\dbfirst\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD92220-B151-46A8-86D2-75CE5D3A4AF5}|DbFirst\\DbFirst.csproj|solutionrelative:dbfirst\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD92220-B151-46A8-86D2-75CE5D3A4AF5}|DbFirst\\DbFirst.csproj|c:\\users\\dac.studentsdc\\desktop\\12-01-2025\\dbfirst\\dbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD92220-B151-46A8-86D2-75CE5D3A4AF5}|DbFirst\\DbFirst.csproj|solutionrelative:dbfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250112090249_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\DbFirst\\DbFirst\\Migrations\\20250112090249_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DbFirst\\Migrations\\20250112090249_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\DbFirst\\DbFirst\\Migrations\\20250112090249_InitialCreate.cs",
+              "RelativeToolTip": "DbFirst\\Migrations\\20250112090249_InitialCreate.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T09:02:49.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\EF\\Department.cs",
+              "RelativeDocumentMoniker": "..\\EF\\Department.cs",
+              "ToolTip": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\EF\\Department.cs",
+              "RelativeToolTip": "..\\EF\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T08:56:57.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\EF\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\EF\\Employee.cs",
+              "ToolTip": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\EF\\Employee.cs",
+              "RelativeToolTip": "..\\EF\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T08:56:43.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\DbFirst\\DbFirst\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "DbFirst\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\DbFirst\\DbFirst\\Models\\Department.cs",
+              "RelativeToolTip": "DbFirst\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T08:19:24.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\DbFirst\\DbFirst\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "DbFirst\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\DbFirst\\DbFirst\\Models\\Employee.cs",
+              "RelativeToolTip": "DbFirst\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T08:18:36.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\DbFirst\\DbFirst\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "DbFirst\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\DbFirst\\DbFirst\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "DbFirst\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T07:28:18.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\DbFirst\\DbFirst\\Program.cs",
+              "RelativeDocumentMoniker": "DbFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\DbFirst\\DbFirst\\Program.cs",
+              "RelativeToolTip": "DbFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:26:31.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActsJan25Context.cs",
+              "DocumentMoniker": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\DbFirst\\DbFirst\\Models\\ActsJan25Context.cs",
+              "RelativeDocumentMoniker": "DbFirst\\Models\\ActsJan25Context.cs",
+              "ToolTip": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\DbFirst\\DbFirst\\Models\\ActsJan25Context.cs",
+              "RelativeToolTip": "DbFirst\\Models\\ActsJan25Context.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwEYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:23:39.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\DbFirst\\DbFirst\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "DbFirst\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\dac.STUDENTSDC\\Desktop\\12-01-2025\\DbFirst\\DbFirst\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "DbFirst\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwJkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:21:57.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
