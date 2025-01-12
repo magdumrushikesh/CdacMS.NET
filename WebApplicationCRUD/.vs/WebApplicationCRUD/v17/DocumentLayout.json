@@ -71,8 +71,7 @@
               "RelativeToolTip": "WebApplicationCRUD\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-11T13:56:40.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T13:56:40.204Z"
             },
             {
               "$type": "Document",
@@ -118,7 +117,7 @@
               "RelativeDocumentMoniker": "WebApplicationCRUD\\Controllers\\EmployeesController.cs",
               "ToolTip": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Controllers\\EmployeesController.cs",
               "RelativeToolTip": "WebApplicationCRUD\\Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwDEAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA/wDEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T10:32:52.117Z",
               "EditorCaption": ""
@@ -141,9 +140,9 @@
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "WebApplicationCRUD\\Models\\Employee.cs",
-              "ToolTip": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Models\\Employee.cs*",
-              "RelativeToolTip": "WebApplicationCRUD\\Models\\Employee.cs*",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowDEAAAA0AAAAAAAAAA==",
+              "ToolTip": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApplicationCRUD\\Models\\Employee.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowBQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T10:08:42.056Z",
               "EditorCaption": ""

@@ -10,7 +10,7 @@ Microsoft.EntityFrameworkCore.Tools
 3. Add connection string in appsettings.json
 
   "ConnectionStrings": {
-    "EmpDbContext": "Data Source=(localdb)\\MsSqlLocalDb;Initial Catalog=EmpDb;Integrated Security=true;MultipleActiveResultSets=true"
+    "CodeFirstContext": "Data Source=(localdb)\\MsSqlLocalDb;Initial Catalog=CodeFirst;Integrated Security=true;MultipleActiveResultSets=true"
   }
 
 4.  Add EF service in Program.cs
