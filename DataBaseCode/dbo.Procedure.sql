@@ -5,4 +5,4 @@
 	@DeptNo int
 AS
 	insert into Employees values(@EmpNo,@Name,@Basic,@DeptNo)
-RETURN 0
+RETURN 0 
