@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\CDAC All\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|d:\\cdac all\\asp.net\\ms.net git\\webapplicationcrud\\webapplicationcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|solutionrelative:webapplicationcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|d:\\cdac all\\asp.net\\ms.net git\\webapplicationcrud\\webapplicationcrud\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|solutionrelative:webapplicationcrud\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|d:\\cdac all\\asp.net\\ms.net git\\webapplicationcrud\\webapplicationcrud\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|solutionrelative:webapplicationcrud\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|d:\\cdac all\\asp.net\\ms.net git\\webapplicationcrud\\webapplicationcrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14BED82A-DF5E-4780-945B-809E5F770837}|WebApplicationCRUD\\WebApplicationCRUD.csproj|solutionrelative:webapplicationcrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,11 +67,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CDAC All\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Program.cs",
               "RelativeDocumentMoniker": "WebApplicationCRUD\\Program.cs",
@@ -71,12 +83,51 @@
               "IsPinned": true
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CDAC All\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationCRUD\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\CDAC All\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationCRUD\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T18:22:32.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\CDAC All\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationCRUD\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\CDAC All\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplicationCRUD\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T18:22:26.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\CDAC All\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationCRUD\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\CDAC All\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplicationCRUD\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T18:22:17.288Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\User\\Details.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\User\\Details.cshtml",
@@ -87,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Usercs.cs",
               "DocumentMoniker": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Models\\Usercs.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Models\\Usercs.cs",
@@ -98,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Controllers\\UserController.cs",
@@ -109,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\CDAC All\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplicationCRUD\\appsettings.json",
@@ -121,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\CDAC All\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplicationCRUD\\Views\\Shared\\_Layout.cshtml",
@@ -133,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\CDAC All\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "WebApplicationCRUD\\Views\\_ViewStart.cshtml",
@@ -145,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\CDAC All\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\Employees\\Delete.cshtml",
               "RelativeDocumentMoniker": "WebApplicationCRUD\\Views\\Employees\\Delete.cshtml",
@@ -157,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\CDAC All\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\Employees\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplicationCRUD\\Views\\Employees\\Index.cshtml",
@@ -169,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "EmployeesController.cs",
               "DocumentMoniker": "D:\\CDAC All\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Controllers\\EmployeesController.cs",
               "RelativeDocumentMoniker": "WebApplicationCRUD\\Controllers\\EmployeesController.cs",
@@ -181,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\CDAC All\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Views\\Employees\\Details.cshtml",
               "RelativeDocumentMoniker": "WebApplicationCRUD\\Views\\Employees\\Details.cshtml",
@@ -193,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\CDAC All\\ASP.NET\\Ms.net git\\WebApplicationCRUD\\WebApplicationCRUD\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "WebApplicationCRUD\\Models\\Employee.cs",
