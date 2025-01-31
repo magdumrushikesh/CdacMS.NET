@@ -41,7 +41,7 @@ namespace DbFirst.Migrations
                 columns: table => new
                 {
                     EmpNo = table.Column<int>(type: "int", nullable: false),
-                    //This is commit
+                    //This is commit2
                     Name = table.Column<string>(type: "varchar(50)", unicode: false, maxLength: 50, nullable: false),
                     Basic = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     DeptNo = table.Column<int>(type: "int", nullable: false)
